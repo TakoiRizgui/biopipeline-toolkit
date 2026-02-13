@@ -1,0 +1,13 @@
+LOCUS       TEST_GENOME             1000 bp    DNA     circular BCT 01-JAN-2026
+FEATURES             Location/Qualifiers
+     CDS             100..500
+                     /locus_tag="TEST_00001"
+                     /product="triacylglycerol lipase"
+                     /translation="MKLAVLAAA"
+     CDS             600..900
+                     /locus_tag="TEST_00002"
+                     /product="serine protease"
+                     /translation="MKKLAVLAA"
+ORIGIN
+        1 atgcgatcga tcgatcgatc gatcgatcga tcgatcgatc gatcgatcga tcgatcgatc
+//
