@@ -1,0 +1,2 @@
+genome_file,total_sequences,total_length,n50,n90,gc_percent,longest_contig,shortest_contig,mean_length,median_length
+test.fasta,3,87,29,29,51.72,29,29,29.0,29

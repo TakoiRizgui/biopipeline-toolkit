@@ -1,0 +1,33 @@
+2026-02-14 19:57:46,645 - INFO - 
+======================================================================
+2026-02-14 19:57:46,645 - INFO - ETAPE 1/4 : CONTROLE QUALITE
+2026-02-14 19:57:46,645 - INFO - ======================================================================
+2026-02-14 19:57:46,654 - INFO - Chargement du genome : test.fasta
+2026-02-14 19:57:46,657 - INFO - ✓ 3 sequences chargees
+2026-02-14 19:57:46,657 - INFO - Calcul des statistiques...
+2026-02-14 19:57:46,672 - INFO - 
+--- RESUME QUALITE ---
+2026-02-14 19:57:46,672 - INFO - Total sequences : 3
+2026-02-14 19:57:46,674 - INFO - Longueur totale : 87 pb
+2026-02-14 19:57:46,678 - INFO - N50             : 29 pb
+2026-02-14 19:57:46,678 - INFO - GC%             : 51.72%
+2026-02-14 19:57:46,678 - INFO - ✗ QUALITE : Faible (N50 < 10 kb)
+2026-02-14 19:57:46,678 - INFO - Generation des graphiques...
+2026-02-14 19:57:49,678 - INFO - ✓ Graphiques sauvegardes
+2026-02-14 19:57:49,680 - INFO - 
+✓ ETAPE 1 TERMINEE - Resultats dans demo_results\01_quality_control/
+2026-02-14 19:57:49,680 - INFO - 
+======================================================================
+2026-02-14 19:57:49,680 - INFO - ETAPE 2/4 : ANNOTATION GENOMIQUE (Prokka)
+2026-02-14 19:57:49,680 - INFO - ======================================================================
+2026-02-14 19:57:49,692 - WARNING - ⚠ Prokka non installe - annotation sautee
+2026-02-14 19:57:49,693 - INFO - Pour installer Prokka : conda install -c bioconda prokka
+2026-02-14 19:57:49,693 - WARNING - 
+ETAPE 3 SAUTEE - Annotation non disponible
+2026-02-14 19:57:49,693 - INFO - 
+======================================================================
+2026-02-14 19:57:49,693 - INFO - ETAPE 4/4 : GENERATION RAPPORT FINAL
+2026-02-14 19:57:49,693 - INFO - ======================================================================
+2026-02-14 19:57:49,697 - INFO - ✓ Rapport final genere : demo_results\04_final_report\test_FINAL_REPORT.html
+2026-02-14 19:57:49,697 - INFO - 
+✓ ETAPE 4 TERMINEE
