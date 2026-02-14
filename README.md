@@ -203,9 +203,8 @@ Si vous utilisez cet outil dans vos travaux, merci de citer :
 ## 👩‍🔬 Auteur
 
 **Takoi Rizgui**
-- 🎓 Mastère Recherche Bioinformatique - Projet Tuniso-Italien (2026)
 - 🎓 Master Big Data, Data Science & IA - Horizon School of Digital Technologies (2024-2025)
-- 🔬 Ex-Technicienne Laboratoire Médical (5 ans d'expérience)
+- 🎓 - Projet Tuniso-Italien (2026)
 - 🌍 Tunis, Tunisie
 
 **Parcours :** Reconversion de la biologie médicale vers la data science et la bioinformatique, combinant expertise métier avec compétences techniques en IA/ML.
