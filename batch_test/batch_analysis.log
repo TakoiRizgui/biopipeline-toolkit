@@ -1,0 +1,3 @@
+2026-02-14 22:50:28,155 - INFO - Demarrage analyse de 1 genomes...
+2026-02-14 22:50:28,155 - WARNING - Fichier non trouve : genomes/*.fasta
+2026-02-14 22:50:28,155 - ERROR - Aucun genome analyse avec succes
