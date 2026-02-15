@@ -1,0 +1,3 @@
+locus_tag,product,family,length,ec_number,sequence,score_length,score_signal,score_ec,score_family,score_gc,score_complexity,total_score,rank
+TEST_00001,triacylglycerol lipase,Lipases,9,N/A,MKLAVLAAA,0.2,0.5,0.0,1.0,0.5,0.5,42.5,1
+TEST_00002,serine protease,Proteases,9,N/A,MKLAVLAAA,0.2,0.5,0.0,0.9,0.5,0.5,40.5,2
